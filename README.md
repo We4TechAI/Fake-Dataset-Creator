@@ -1,5 +1,6 @@
 # Fake Dataset Creator
 
+![Fake Dataset Creator](banner.png)
 This project is a web application built with **Streamlit** to generate fake datasets. The application allows users to select fields such as names, addresses, emails, phone numbers, etc., and generate fake data based on their selections. Additionally, the app provides an option to choose the output format (CSV, JSON, or JSONL) and supports different locales (e.g., `en_US`, `de_DE`, `fr_FR`, etc.).
 
 ## Features
