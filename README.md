@@ -1,6 +1,6 @@
 # Fake Dataset Creator
 
-This project is a web application built with **Streamlit** and **Faker** to generate fake datasets. The application allows users to select fields such as names, addresses, emails, phone numbers, etc., and generate fake data based on their selections. Additionally, the app provides an option to choose the output format (CSV, JSON, or JSONL) and supports different locales (e.g., `en_US`, `de_DE`, `fr_FR`, etc.).
+This project is a web application built with **Streamlit** to generate fake datasets. The application allows users to select fields such as names, addresses, emails, phone numbers, etc., and generate fake data based on their selections. Additionally, the app provides an option to choose the output format (CSV, JSON, or JSONL) and supports different locales (e.g., `en_US`, `de_DE`, `fr_FR`, etc.).
 
 ## Features
 
@@ -103,7 +103,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [Streamlit](https://streamlit.io) for building the application interface.
-- [Faker](https://faker.readthedocs.io/) for generating realistic fake data.
 - [Docker](https://www.docker.com) for containerizing the application.
 ```
 
