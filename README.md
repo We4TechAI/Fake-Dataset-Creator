@@ -94,7 +94,7 @@ If you prefer to run the application without Docker, you can run it locally by f
 4. Run the Streamlit application:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 5. Open your web browser and go to [http://localhost:8501](http://localhost:8501) to interact with the app.
