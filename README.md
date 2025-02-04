@@ -107,7 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Streamlit](https://streamlit.io) for building the application interface.
 - [Docker](https://www.docker.com) for containerizing the application.
-```
+
 
 ### Explanation:
 1. **Project Overview**: Describes what the project is about and its key features.
